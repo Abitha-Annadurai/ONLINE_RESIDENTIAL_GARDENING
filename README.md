@@ -4,6 +4,7 @@ Web Based Application (Frontend)
     Front End - HTML5, CSS3 , Visual studio code editor, node js.
     Back End - MongoDB
     
+    
   	Visitors can create an account to hire plants and also able to
 purchase their desired product and learn gardening system with
 useful videos.
